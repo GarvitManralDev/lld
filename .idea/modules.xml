@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/GamesAndPuzzles/Chess/Chess.iml" filepath="$PROJECT_DIR$/GamesAndPuzzles/Chess/Chess.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataStructuresAndSearch/LRUCache/LRUCache.iml" filepath="$PROJECT_DIR$/DataStructuresAndSearch/LRUCache/LRUCache.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns/Behavioral/Observer/Observer.iml" filepath="$PROJECT_DIR$/DesignPatterns/Behavioral/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructuresAndSearch/SearchAutocompleteSystem/SearchAutocompleteSystem.iml" filepath="$PROJECT_DIR$/DataStructuresAndSearch/SearchAutocompleteSystem/SearchAutocompleteSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/GamesAndPuzzles/SnakesAndLadders/SnakesAndLadders.iml" filepath="$PROJECT_DIR$/GamesAndPuzzles/SnakesAndLadders/SnakesAndLadders.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns/Behavioral/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/DesignPatterns/Behavioral/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/GamesAndPuzzles/TicTacToe/TicTacToe.iml" filepath="$PROJECT_DIR$/GamesAndPuzzles/TicTacToe/TicTacToe.iml" />
