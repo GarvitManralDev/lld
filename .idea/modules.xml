@@ -6,17 +6,19 @@
       <module fileurl="file://$PROJECT_DIR$/ManagingStates/ATM/WithDesignPatterns/ATM-WithDesignPatterns.iml" filepath="$PROJECT_DIR$/ManagingStates/ATM/WithDesignPatterns/ATM-WithDesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataStructuresAndSearch/BloomFilter/BloomFilter.iml" filepath="$PROJECT_DIR$/DataStructuresAndSearch/BloomFilter/BloomFilter.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns/Creational/Builder/Builder.iml" filepath="$PROJECT_DIR$/DesignPatterns/Creational/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/Behavioral/ChainOfResponsibility/ChainOfResponsibility.iml" filepath="$PROJECT_DIR$/DesignPatterns/Behavioral/ChainOfResponsibility/ChainOfResponsibility.iml" />
       <module fileurl="file://$PROJECT_DIR$/GamesAndPuzzles/Chess/Chess.iml" filepath="$PROJECT_DIR$/GamesAndPuzzles/Chess/Chess.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataStructuresAndSearch/LRUCache/LRUCache.iml" filepath="$PROJECT_DIR$/DataStructuresAndSearch/LRUCache/LRUCache.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns/Behavioral/Observer/Observer.iml" filepath="$PROJECT_DIR$/DesignPatterns/Behavioral/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataStructuresAndSearch/SearchAutocompleteSystem/SearchAutocompleteSystem.iml" filepath="$PROJECT_DIR$/DataStructuresAndSearch/SearchAutocompleteSystem/SearchAutocompleteSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns/Creational/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/DesignPatterns/Creational/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/GamesAndPuzzles/SnakesAndLadders/SnakesAndLadders.iml" filepath="$PROJECT_DIR$/GamesAndPuzzles/SnakesAndLadders/SnakesAndLadders.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/Behavioral/ChainOfResponsibility/ChainOfResponsibility.iml" filepath="$PROJECT_DIR$/DesignPatterns/Behavioral/ChainOfResponsibility/ChainOfResponsibility.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns/Behavioral/State/State.iml" filepath="$PROJECT_DIR$/DesignPatterns/Behavioral/State/State.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns/Behavioral/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/DesignPatterns/Behavioral/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/GamesAndPuzzles/TicTacToe/TicTacToe.iml" filepath="$PROJECT_DIR$/GamesAndPuzzles/TicTacToe/TicTacToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManagingStates/VendingMachine/WithDesignPatterns/WithDesignPatterns.iml" filepath="$PROJECT_DIR$/ManagingStates/VendingMachine/WithDesignPatterns/WithDesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/lld.iml" filepath="$PROJECT_DIR$/.idea/lld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManagingStates/VendingMachine/simple/simple.iml" filepath="$PROJECT_DIR$/ManagingStates/VendingMachine/simple/simple.iml" />
     </modules>
   </component>
 </project>
