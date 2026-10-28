@@ -12,13 +12,17 @@
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns/Behavioral/Observer/Observer.iml" filepath="$PROJECT_DIR$/DesignPatterns/Behavioral/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataStructuresAndSearch/SearchAutocompleteSystem/SearchAutocompleteSystem.iml" filepath="$PROJECT_DIR$/DataStructuresAndSearch/SearchAutocompleteSystem/SearchAutocompleteSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/ManagingStates/ElevatorSystem/Simple/Simple.iml" filepath="$PROJECT_DIR$/ManagingStates/ElevatorSystem/Simple/Simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManagementStates/TaskManagement/Simple - TaskManagement/Simple - TaskManagement.iml" filepath="$PROJECT_DIR$/ManagementStates/TaskManagement/Simple - TaskManagement/Simple - TaskManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManagementStates/TaskManagement/WithDesignPattern - TaskManagement/WithDesignPattern - TaskManagement.iml" filepath="$PROJECT_DIR$/ManagementStates/TaskManagement/WithDesignPattern - TaskManagement/WithDesignPattern - TaskManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/ManagingStates/TrafficLight/Simple - TrafficLight/Simple - TrafficLight.iml" filepath="$PROJECT_DIR$/ManagingStates/TrafficLight/Simple - TrafficLight/Simple - TrafficLight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManagementStates/ParkingLot/Simple_ParkingLot/Simple_ParkingLot.iml" filepath="$PROJECT_DIR$/ManagementStates/ParkingLot/Simple_ParkingLot/Simple_ParkingLot.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns/Creational/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/DesignPatterns/Creational/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/GamesAndPuzzles/SnakesAndLadders/SnakesAndLadders.iml" filepath="$PROJECT_DIR$/GamesAndPuzzles/SnakesAndLadders/SnakesAndLadders.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns/Behavioral/State/State.iml" filepath="$PROJECT_DIR$/DesignPatterns/Behavioral/State/State.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns/Behavioral/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/DesignPatterns/Behavioral/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/GamesAndPuzzles/TicTacToe/TicTacToe.iml" filepath="$PROJECT_DIR$/GamesAndPuzzles/TicTacToe/TicTacToe.iml" />
       <module fileurl="file://$PROJECT_DIR$/ManagingStates/ElevatorSystem/WithDesignPattern/WithDesignPattern.iml" filepath="$PROJECT_DIR$/ManagingStates/ElevatorSystem/WithDesignPattern/WithDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManagementStates/ParkingLot/WithDesignPattern - Parking Lot/WithDesignPattern - Parking Lot.iml" filepath="$PROJECT_DIR$/ManagementStates/ParkingLot/WithDesignPattern - Parking Lot/WithDesignPattern - Parking Lot.iml" />
       <module fileurl="file://$PROJECT_DIR$/ManagingStates/TrafficLight/WithDesignPattern - TrafficLight/WithDesignPattern - TrafficLight.iml" filepath="$PROJECT_DIR$/ManagingStates/TrafficLight/WithDesignPattern - TrafficLight/WithDesignPattern - TrafficLight.iml" />
       <module fileurl="file://$PROJECT_DIR$/ManagingStates/VendingMachine/WithDesignPatterns/WithDesignPatterns.iml" filepath="$PROJECT_DIR$/ManagingStates/VendingMachine/WithDesignPatterns/WithDesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/lld.iml" filepath="$PROJECT_DIR$/.idea/lld.iml" />
